@@ -1,0 +1,91 @@
+Into_the_Storm|Into the Storm is Chipmunk's first map in the CM series. Fight through vastly changing environments, brutal mobs, and and endless storm of mobs. Can you defeat them all?|1.7.4|Moderate|Chimarian_Memories|http://i.imgur.com/AxXYvWr.png|http://www.minecraftforum.net/forums/mapping-and-modding/maps/1554519-ctm-chimarian-memories-ctm-series-new-minimap
+Hikaro_Jungle|The Hikaro Jungle has lied dormant for centuries. With the approaching Storm, the entire jungle is alive, and deadly. Can you survive?|1.7.4|Moderate|Chimarian_Memories|https://i.imgur.com/ISATds1.png|https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/1554519-ctm-chimarian-memories-ctm-series-new-minimap
+Archangel_Rising|After escaping the Hikaro, you end up in the ancient realm of Corralia. Fight using immense amounts of powerful loot against insane enemies and intense environments.|map version|map length|Chimarian_Memories|image link|download link
+Blood_of_the_Oracle|Now fighting against a ruthless fallen angel alongside an archangel, you must complete the monument and find the prophecy that will foretell Chimaria's fate in the war to come. Are you up to the task?|map version|map length|Chimarian_Memories|image link|download link
+Goliath|From forests to deserts. Go diving in the deepest oceans or go spelunking in the darkest caves. This map is an environment based map. It is extremely vast so that explains its name. It starts off relatively easy, but it gets harder and harder over time. But be wary, the map has a fair amount of traps|map version|map length|Untold_Stories|image link|download link
+Bigleaf_Forest|map description|map version|map length|Untold_Stories|image link|download link
+Myriad_Caves|map description|map version|map length|Untold_Stories|image link|download link
+Corona_Trials|This map is recommended way too frequently!|1.10|long|Untold_Stories|image link|http://www.mediafire.com/file/fqad8fh70imz1wj/Untold_Stories_4_-_Corona_Trials_1.2.2.zip/file
+Calamity_Canyon|map description|map version|map length|Untold_Stories|image link|download link
+The_Corrupted_Path|The Corrupted Path is the first in Heliceo's brutally difficult Ragecraft series. Fight through ruthless caverns, battle myriads of mobs, and complete one of the most satisfying monuments you've ever seen.|1.5.2|Long|Ragecraft|https://ctmrepository.com/map_img/16.jpg|https://ctmrepository.com/index.php?action=viewMap&id=21
+Insomnia|Insomnia is the second map of Heliceo's Ragecraft series and is commonly seen as one of the greatest CTM maps ever. Fight through vast landscapes in the hopes of completing the monument, at the threat of your very sanity.|1.7.2|Long|Ragecraft|https://ctmrepository.com/map_img/18.jpg|https://ctmrepository.com/index.php?action=viewMap&id=23
+The_Prophecy|The third and final installment on the Ragecraft series builds on the many themes and mechanics introduced in the previous two, while offering a whole new experience taking full advantage of the 1.8 commands. Featuring 16 action packed areas, dozens of items with unique custom abilities, five breathtaking boss battles, and much more.|1.8.8|Long|Ragecraft|https://ctmrepository.com/map_img/19.jpg|https://ctmrepository.com/index.php?action=viewMap&id=24
+Sea_of_Flame_II|Sea of Flame II is a remake of the first map of the series. It takes place on islands in a sea of lava, featuring hostile areas and custom items|1.2.5|Medium|Super_Hostile|https://i0.wp.com/www.superhostile.net/wp-content/uploads/2018/05/thumb-1.jpg?w=400&ssl=1|https://www.superhostile.net/maps/
+Infernal_Sky_II|map description|map version|map length|Super_Hostile|image link|download link
+The_Kaizo_Caverns|map description|map version|map length|Super_Hostile|image link|download link
+Legendary|map description|map version|map length|Super_Hostile|image link|download link
+Nightmare_Realm|map description|map version|map length|Super_Hostile|image link|download link
+Sunburn_Islands|map description|map version|map length|Super_Hostile|image link|download link
+Spellbound_Caves|map description|map version|map length|Super_Hostile|image link|download link
+Lethamyr|map description|map version|map length|Super_Hostile|image link|download link
+Inferno_Mines|map description|map version|map length|Super_Hostile|image link|download link
+Waking_Up|map description|map version|map length|Super_Hostile|image link|download link
+Old_Stuff_Pack|map description|map version|map length|Super_Hostile|image link|download link
+Corrupted_Isles|map description|map version|map length|Smitje's_CTMs|image link|download link
+Bonechill_Spiral|map description|map version|map length|Omega's_Odyssey's|image link|download link
+Hellfire_Quarry|Based off of Vechs' Inferno Mines, Hellfire Quarry presents a tough difficulty, lore for the player to find, interesting custom mobs and a music track for each area.|1.12.2|Short|Forgotten_Minis|https://media.discordapp.net/attachments/271779282903105547/392584073547350016/2017-12-19_09.50.07.png?width=1297&height=677|http://www.mediafire.com/file/hp6an76a46v8av6/Hellfire+Quarry+V1.3.zip
+Monstrosity|Explore a massive network of caves mysteriously abandoned by the once great ARCANE Company. Delve deep enough, and you might just find out why they fled.|1.8.8|Medium|Cold_Fusion's_Maps|https://ctmrepository.com/map_img/3.jpg|https://ctmrepository.com/index.php?action=viewMap&id=4
+Frostburn|map description|map version|map length|Cold_Fusion's_Maps|image link|download link
+A_Nightmare_to_Remember|map description|map version|map length|The_Legacy|image link|download link
+Citadel_Raiders|map description|map version|map length|The_Legacy|image link|download link
+Instability|map description|map version|map length|The_Legacy|image link|download link
+Legends_of_Argon|A large and engrossing fun and challenging floating islands map that will take you on an amazing adventure through a dark and twisted, yet beautiful, fantasy world.|1.8.7|Long|Vault_of_Adventure|https://i.imgur.com/dfTxPbr.png|https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/1515785-legend-of-argon-by-draco-rogue
+The_Undead's_Return|map description|map version|map length|Ty's_CTM_Collection|image link|download link
+Trust_Fall|map description|map version|map length|Ty's_CTM_Collection|image link|download link
+Prison_Break|map description|map version|map length|Ty's_CTM_Collection|image link|download link
+A_Snowy_Nightmare|map description|map version|map length|Ty's_CTM_Collection|image link|download link
+Savage_Realm|Made up of a diverse range of beautiful, yet hostile environments, Savage Realm shall provide hours upon hours of entertainment with the use of some nifty 1.8 features, dozens of custom mobs and hundreds of custom items.|1.8|Long|Extreme_Adventures|http://i.imgur.com/IAO86Jb.jpg|download link
+Marooned|map description|map version|map length|Extreme_Adventures|image link|download link
+Soul_Reaper|map description|map version|map length|Extreme_Adventures|image link|download link
+Supposed_Golden_Path|map description|map version|map length|Extreme_Adventures|image link|download link
+Catastrophic_Caverns|map description|map version|map length|Calamity_Caverns|image link|download link
+Unforgiving_Depths|map description|map version|map length|Calamity_Caverns|image link|download link
+Forgotten_Depths|map description|map version|map length|Calamity_Caverns|image link|download link
+Temple_of_Ash|map description|map version|map length|Calamity_Caverns|image link|download link
+Deserted_Caverns|map description|map version|map length|Cheifwiggy's_CTMs|image link|download link
+Forgotten_Crevice|map description|map version|map length|Cheifwiggy's_CTMs|image link|download link
+Inspired_Gallery|map description|map version|map length|Cheifwiggy's_CTMs|image link|download link
+The_Broken_Goddess|map description|map version|map length|Fornan's_CTM_Series|image link|download link
+The_Discarded_World|map description|map version|map length|Fornan's_CTM_Series|image link|download link
+Metro_2033|map description|map version|map length|Fornan's_CTM_Series|image link|download link
+The_Artisan|map description|map version|map length|Darkest_Hour|image link|download link
+The_Troll_Caverns|map description|map version|map length|Darkest_Hour|image link|download link
+Trinity_Skies|map description|map version|map length|Darkest_Hour|image link|download link
+The_Blackmoor_Mansion|map description|map version|map length|Darkest_Hour|image link|download link
+The_Count_of_Tuscany|map description|map version|map length|Darkest_Hour|image link|download link
+An_Eye_for_Detail|map description|map version|map length|Darkest_Hour|image link|download link
+Depths_of_Irkalla|Irkalla is the underworld of Babylonian mythology, a land with no escape. Depths of Irkalla is a full 16 wool CTM map. It is a long linear branching map map and medium difficulty.|1.6.4|Moderate|Moldy's_CTM_Series|https://i.imgur.com/T67ovDI.jpg|http://www.mediafire.com/file/cd5ri9gvnwdq5ao/IrkallaCavernsRelease3.03c.zip
+Ticking_Chill|Ticking Chill is a map created for the January 2015 Strawberry Jam. Ticking Chill features a freezing mechanic which lowers the player's temperature over time, leading to different negative effects and even death. The only way to raise your temperature is to stand near fire. Unfortunately the mechanic only works in singleplayer. There are 3 objectives in the map and overall it should take between 1-3 hours to complete.|1.8|short|Moldy's_CTM_Series|https://i.imgur.com/OuRWFd6.jpg|http://www.mediafire.com/file/5yyw2a7d4ba9s24/Ticking_Chill1.8.zip
+Mage's_Escape|This map was made for the 6th Strawberry Jam in under 72 hours. The theme for this jam was Traps, Trolls, and April Fools. In this map you play as a mage on a mission to steal the three relics (wool) from a realm, but you're captured during your task. Can you escape and claim what you came for, or will your own cunning and skill not be enough to overcome the forces against you?|1.8|short|Moldy's_CTM_Series|https://i.imgur.com/N89cLuf.jpg|http://www.mediafire.com/file/1aczr4fu26q7der/Mage%27s_Escape_v1.2.zip
+Spectre_Isles|This map was made for the 7th Strawyberry Jam in under 72 hours. The theme was "Shattered Sky." In this map you play as a Spectre Hunter who must enter the Spirit Realm to acquire three Spectral Fragments. To fight the enemies you find you will need to use special, custom weapons. |1.8|short|Moldy's_CTM_Series|https://i.imgur.com/DzhjNbS.jpg|http://www.mediafire.com/file/wgznv4z8mvhsohl/Spectre_Isles.17.zip
+Darkness_Descending|Bound to the light, will you be able to break free and journey into the descending darkness to retrieve the wool? Break the curse and fight into dangerous areas with twists that may surprise you.|1.8|short|Moldy's_CTM_Series|https://i.imgur.com/4LuQqOB.jpg|http://www.mediafire.com/file/3ps1brdvsipru4p/DarknessDescending.1.2.zip
+Armageddon|The world is overheating. Your goal is to go and stop it from overheating by collecting wool. But don't take too long, every minute you waste the world gets hotter, and the heat will have unusual effects on the monsters standing in your way! |1.10|short|Moldy's_CTM_Series|https://i.imgur.com/Ek4bWp7.jpg|http://www.mediafire.com/file/vgyu994pf2m2z93/Armageddon_v1.14.zip
+Horizon's_Edge|Go on a journey to collect the Treasure Crystals as the captain and only survivor of your airship, and hunt for the remains of your lost crew. This map features an upgrade system, custom items and weapons, and mechanics that change the way you accomplish your objectives. Will you be able to power through the tough start and complete the Treasure Monument?|1.10|short|Moldy's_CTM_Series|https://i.imgur.com/b2FrHr4.jpg|http://www.mediafire.com/file/zglczfqkkglpvn3/Horizon%27s_Edge_1.11.zip
+Forest's_Heart|Delve deep into the corrupted forest to find a way to destroy its black heart. But be careful, any health you lose will need to be recaptured from the forest! Struggle underneath massive trees, through flooded roots, and into the Heart's final lair in this tough 3 objective map!|1.10.2|short|Moldy's_CTM_Series|https://i.imgur.com/oXtKi7i.jpg|http://www.mediafire.com/file/09k7qghda96lxva/ForestsHeart1.2.zip
+A_Little_Fancy|map description|map version|map length|The_Angelical_Shrine|image link|download link
+Melonized_Jungle|map description|map version|map length|The_Angelical_Shrine|image link|download link
+Frostbitten|map description|map version|map length|The_Angelical_Shrine|image link|download link
+Dome_of_Despair|map description|map version|map length|The_Angelical_Shrine|image link|download link
+Fantasy_Paradise|map description|map version|map length|The_Angelical_Shrine|image link|download link
+Animosity|map description|map version|map length|Simulation_Protocol|image link|download link
+Overload|map description|map version|map length|Simulation_Protocol|image link|download link
+Entropy|map description|map version|map length|Simulation_Protocol|image link|download link
+UT1|map description|map version|map length|Uncharted_Territories|image link|download link
+UT2|map description|map version|map length|Uncharted_Territories|image link|download link
+UT3|map description|map version|map length|Uncharted_Territories|image link|download link
+Discordancy|map description|map version|map length|Team_CTMC|image link|download link
+Austerity|map description|map version|map length|Team_CTMC|image link|download link
+Scarcity|map description|map version|map length|Team_CTMC|image link|download link
+Dreadsky_Isles|map description|map version|map length|Tales_of_Dreadsky|image link|download link
+Blight_Castle|map description|map version|map length|Tenebrous_Tales|image link|download link
+VF1|map description|map version|map length|Vinyl_Fantasy|image link|download link
+VF2|map description|map version|map length|Vinyl_Fantasy|image link|download link
+Industrial_Park|map description|map version|map length|Vinyl_Fantasy|image link|download link
+Eventide_Trance|map description|map version|map length|Vinyl_Fantasy|image link|download link
+Terminal_Velocity|You managed to escape! Or have you? You will be free... if you can to make it in one piece to the end of this corridor, collect the 3 keys to open the gate, and do it fast. At least, you managed to get your trustworthy Susile Gunblade Mk.27 on your way here. Let's hope that's enough to defend yourself from the swarm of bloodthirsty guards coming your way.|1.13,1.14|6min-infinity|Terminal_Velocity|image link|http://www.minecraftmaps.com/ctm-maps/terminal-velocity
+Into_the_Detphs|Take what little daylight you have and prepare to delve into a dark and dangerous world. Can you get all 3 wool and place them on the monument? Or will your journey into the depths fall short?|1.6.4|short|Moldy's_CTM_Series|https://i.imgur.com/tTlIAlV.jpg|http://www.mediafire.com/file/ugzr96xsjmn56wi/IntotheDepths1.2.zip
+Pillar_of_Misery|In this revolutionary map by moldybread players are transported back in time to a place where CTM maps were better, a time when they took skill and perseverance to complete. There are only two objectives but don't be fooled, those two objectives have proven to be the end for many a CTM player. To date only 2 individuals have completed this impossible task of monumental difficulty. Do you really think you can be next?|1.11.2|short|Moldy's_CTM_Series|https://cdn.discordapp.com/attachments/229353438746509312/290289758096195585/2017-03-11_20.07.14.png|http://www.mediafire.com/file/8bbyb0ze36snzmx/MINIMAL_MERCY_-_Pillar_of_Misery_v1.0.zip
+Nyctophobia|Are you afraid of the dark? After this map you will be. Starved of resources, your goal is to set out and reclaim an underground city consumed by chaos and destruction. With whatever strength you can muster you will need to take on 3 highly defended strongholds and reclaim the wool that was lost. Will you be able to make it through the darkness, or will you be consumed by it like so many others?|1.12.2|short|Moldy's_CTM_Series|https://cdn.discordapp.com/attachments/205875281553129490/374381207506518016/hi.png|http://www.mediafire.com/file/pxzearzzx6o2o6t/Nyctophobia.zip
+Sea_of_Cinders|Welcome to the Sea of Cinders, an inhospitable sea of lava dominated by a towering volcano. It is your mission to survive in this harsh landscape long enough to complete the monument. Explore barren islands, towering fortresses, and massive volcanos in this Sea of Flame inspired CTM map|1.12.2|short|Moldy's_CTM_Series|https://i.imgur.com/d3xYWq3.jpg|http://www.mediafire.com/file/j27j2h1k44qavv0/Sea_of_Cinders_for_MC_1.12.2.zip
+Expedition_Entangled|Lost in a towering jungle, will you be able to survive long enough to complete all 3 dungeons? Or will you yourself become snared by the encroaching growth? This map is an features a more open layout. The starting area will have plenty of resources for you to prepare for the harder dungeons scattered throughout it.|1.12.2|short|Moldy's_CTM_Series|https://cdn.discordapp.com/attachments/205875281553129490/414937151139217408/2018-02-18_18.22.23.png|http://www.mediafire.com/file/pnpa2067bfh9t3s/Expedition_Entangled_for_MC1.12.2.zip
+Rift_Up|An obsidian spire bursts from the ground on an island and you get to investigate.|1.12|Medium|Stetofire's_Maps|image link|https://ctmrepository.com/download.php?id=19
